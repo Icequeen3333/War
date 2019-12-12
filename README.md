@@ -3,6 +3,8 @@ This is the classic card game, war.
 
 ## Play here https://icequeen3333.github.io/War/
 
+Credit to - https://html5hive.org/create-a-card-game-in-canvas-with-react-components/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
